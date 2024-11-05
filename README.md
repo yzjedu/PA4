@@ -1,12 +1,10 @@
 <h1>CS151 PROGRAMMING ASSIGNMENT</h1>
 
-
 - 🔵 **_Understand the problem and Design before Coding_** 🔵
 - 🟢 **_FINAL DUE: Thursday 11/21/24 at 11:59 PM_** 🟢
 - **_Programming Grade: EMRN_**
 
-**Table of contents**
-
+<h2>Table of contents</h2>
 <!-- TOC -->
   * [`I. PROBLEM:`](#i-problem)
   * [`II. PURPOSE OF THE ASSIGNMENT`](#ii-purpose-of-the-assignment)
