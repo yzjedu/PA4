@@ -5,6 +5,7 @@
 - **_Programming Grade: EMRN_**
 
 <h2>Table of contents</h2>
+
 <!-- TOC -->
   * [`I. PROBLEM:`](#i-problem)
   * [`II. PURPOSE OF THE ASSIGNMENT`](#ii-purpose-of-the-assignment)
@@ -18,10 +19,8 @@
     * [Testing your Program](#testing-your-program)
     * [To earn an E](#to-earn-an-e)
   * [`VII. ASSIGNMENT REMINDERS`](#vii-assignment-reminders)
-  * [`VIII. FINAL SUBMISSION`](#viii-final-submission)
-    * [What to Submit in GitHub:](#what-to-submit-in-github)
+  * [`VIII. What to Submit in GitHub`](#viii-what-to-submit-in-github)
 <!-- TOC -->
-
 
 ## `I. PROBLEM:`
 
@@ -166,8 +165,8 @@ If you are going for an E on this assignment, it should have most of the followi
 # Credits: [Is your code based of an example in the book, in class, or something else?  Reminder: you should never take code from the Internet or another person.]
 # Input Files: [description of the format of the input files you need for this program to work]
 ```
-## `VIII. FINAL SUBMISSION`
-### What to Submit in GitHub:
+
+## `VIII. What to Submit in GitHub`
 
 1. Completed `main.py` file
 2. Completed `algorithm.md` -> Contains the algorithm of your program
