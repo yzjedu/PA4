@@ -1,14 +1,33 @@
-# CS151 PROGRAMMING ASSIGNMENT #4
+**_CS151 PROGRAMMING ASSIGNMENT 4_**
 
-### 🔵 Understand the problem and Design before Coding 🔵
 
-#### 🟢 FINAL DUE: Thursday 11/21/24 at 11:59 PM 🟢
+- 🔵 **_Understand the problem and Design before Coding_** 🔵
+- 🟢 **_FINAL DUE: Thursday 11/21/24 at 11:59 PM_** 🟢
+- **_Programming Grade: EMRN_**
 
-- #### Programming Grade: EMRN
+**Table of contents**
+
+<!-- TOC -->
+  * [`I. PROBLEM:`](#i-problem)
+  * [`II. PURPOSE OF THE ASSIGNMENT`](#ii-purpose-of-the-assignment)
+  * [`III. REQUIREMENTS ANALYSIS `](#iii-requirements-analysis-)
+    * [Files](#files)
+    * [Usability](#usability)
+    * [User Options](#user-options)
+  * [`IV. DESIGN`](#iv-design)
+    * [Function design:](#function-design-)
+  * [`V. PROGRAMMING REQUIREMENTS`](#v-programming-requirements)
+    * [Testing your Program](#testing-your-program)
+    * [To earn an E](#to-earn-an-e)
+  * [`VII. ASSIGNMENT REMINDERS`](#vii-assignment-reminders)
+  * [`VIII. FINAL SUBMISSION`](#viii-final-submission)
+    * [What to Submit in GitHub:](#what-to-submit-in-github)
+<!-- TOC -->
+
 
 ## `I. PROBLEM:`
 
-- You are creating a to analyze headlines from the Australian Broadcasting Company (ABC). 
+- You are creating a program to analyze headlines from the Australian Broadcasting Company (ABC). 
 - Your program is going to read in the file chosen by the user, and then allow them to request specific types of analysis on that file. 
 - The headlines included in this assignment are real headlines from this real news agency.
 
@@ -48,13 +67,17 @@ Remember that your program should:
    
 ### User Options
 
-The user can choose the following types of analyses on the file they chose to analyze at the start of the program:
+The user can choose the following types of analyses on the file they chose to analyse at the start of the program:
 
 1. Determine how many headlines have a particular word in it, for a single file
-2. Write to a new file all headlines that have a particiular word in it. User gets to choose the name of the new file.
+2. Write headlines containing a specific word to a new file.
+   - User gets to choose the name of the word and the new file .
 3. Determine the average number of characters per headline
-4. Output the longest or shortest headline (you choose which one you want to design your program to do!). Length is determined by number of characters.
-5. Read in a new file to analyze. If the user chooses this option, it overwrites the data you had been storing (e.g. old file is no longer stored in program after new file is read in)
+4. Output the longest and shortest headline. 
+   - Length is determined by number of characters.
+5. Read in a new file to analyze. 
+   - If the user chooses this option, it overwrites the data you had been storing 
+   <br> (e.g. old file is no longer stored in program after new file is read in)
 
 The user gets to keep choosing what they want to do until they choose to quit.
 
@@ -108,9 +131,7 @@ For `2017.txt`:
 * the average number of words in a headline is 6
 * the average number of characters in a headline are 49.5
 * Shortest headline (by characters): 4
-* Shortest headline (by words): 1
 * Longest headline (by characters): 70
-* Longest headline (by words): 15
 ```
 
 
