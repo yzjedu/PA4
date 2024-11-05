@@ -133,7 +133,20 @@ If you are going for an E on this assignment, it should have most of the followi
 - Follow the programming assignment requirements document for comments, formatting, etc. 
 - Follow the honor code guidelines outlined in the syllabus and at [here](https://www.loyola.edu/academics/computer-science/current-students/honor-code).
 
-
+- Include an updated version of the intro comments. 
+  - Note the new final line below about `Input files`. 
+  - Be sure to note that you need input files that contains the headlines! 
+```
+# Programmers:  [your names here]
+# Course:  CS151, [Instructors Name]
+# Due Date: [date assignment is due]
+# Lab Assignment:  [number of assignment]
+# Problem Statement:  [what problem does your code solve; i.e., calculating inches from centimeters]
+# Data In: [what information do you request from the user?]
+# Data Out:  [What information do you display for the user?]
+# Credits: [Is your code based of an example in the book, in class, or something else?  Reminder: you should never take code from the Internet or another person.]
+# Input Files: [description of the format of the input files you need for this program to work]
+```
 ## `VIII. FINAL SUBMISSION`
 ### What to Submit in GitHub:
 
